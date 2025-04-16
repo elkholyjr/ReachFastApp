@@ -1,6 +1,10 @@
 # The Reach Fast app is designed to help users find the most efficient route between multiple areas and calculate the total gas cost for the trip. It provides users with a way to input locations,
 calculates the shortest path between them, and determines the cost of fuel required based on the total distance.
 
+![Gas app images](https://github.com/user-attachments/assets/08a7841f-bc88-472c-878e-1afa92028bc8)
+
+![ezgif-7-7ca2f3c10f](https://github.com/user-attachments/assets/c0bebc71-0711-4d6f-ae21-2116c92efeb2)
+
 # Features->
 -Best Route Calculation: Finds the shortest route between multiple areas using permutations and calculates the total distance.
 
